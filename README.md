@@ -7,5 +7,5 @@ Inicializar dos vectores, de 100 elementos cada uno, mediante una distribución 
 El objetivo es encontrar el valor de A que minimice la función de entropía utilizada.
 
 
-
+![resultados del ejercicio](https://user-images.githubusercontent.com/17588268/67033326-c5ffe580-f115-11e9-8ba0-960d72c19ce1.PNG)
 
